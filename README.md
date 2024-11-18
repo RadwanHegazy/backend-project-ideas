@@ -161,3 +161,73 @@ This is a game for make user to draw something and on the other side his friend 
 - [More Info](https://www.facebook.com/watch/?v=2787165871436701)
 - [Link Backend](https://github.com/RadwanHegazy/django-drawer-game-backend)
 - [Link Frontend](https://github.com/RadwanHegazy/django-drawer-game-frontend)
+
+
+## 29. Electronic Association
+this is an association "جمعية" , to pay mony on it and recive money to the users by order
+
+- [More Info](https://www.facebook.com/watch/?v=984200716408810)
+- [Link Backend](https://github.com/RadwanHegazy/django-gamia-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-gamia-frontend)
+
+## 28. Online Typing Speed Game
+This is a game that enables users to play with each other to know who is type fast.
+
+- [More Info](https://www.facebook.com/watch/?v=403226395856635)
+- [Link Backend](https://github.com/RadwanHegazy/django-typingspeed-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-typingspeed-frontend)
+
+## 27. Cafateria Ordering System
+This project for order foods & drinks from the cafateria.
+
+- [More Info](https://www.facebook.com/watch/?v=458707380132157)
+- [Link Backend](https://github.com/RadwanHegazy/django-cafateria-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-cafateria-frontend)
+
+## 26. Portfollio Builder
+A system that helps you to build your portfollio with your information.
+
+- [More Info](https://www.facebook.com/watch/?v=2509876825887011)
+- [Link Backend](https://github.com/RadwanHegazy/django-portfolliomaker-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-portfolliomaker-frontend)
+
+## 25. Backend Builder
+Project for enables users to build their backend by define endpoints and the response in each endpoint 
+
+- [More Info](https://www.facebook.com/watch/?v=1570223600221668)
+- [Link Backend](https://github.com/RadwanHegazy/django-backendbuilder-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-backendbuilder-frontend)
+
+## 24. PythonWebUI
+This is a smple package that helps you to translate the python code into html web pages
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid0GaJVzPxa4NGmnAhSFkKQrqSkHbKvC1qKcTJX6RCk8yS4z5eoBVghtpWKp2QcgjBUl)
+- [Link](https://github.com/RadwanHegazy/pythonwebui)
+
+## 23. Student Room Replacement
+This is project for sxpstudents for avaliablity to replace their rooms.
+
+- [More Info](https://www.facebook.com/watch/?v=1591750071676292)
+- [Link Backend](https://github.com/RadwanHegazy/django-expstudents-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-expstudents-frontend)
+
+## 22. Eid Congratulation Card
+This is project for made Eid congratulation cards.
+
+- [More Info](https://www.facebook.com/watch/?v=997591068153454)
+- [Link](https://github.com/RadwanHegazy/django-eidsaeed)
+
+## 21. Certificate Builder
+This is project for able to make certificate by taking some data from users and add these data on the certificate.
+
+- [More Info](https://www.facebook.com/watch/?v=482782424433867)
+- [Link Backend](https://github.com/RadwanHegazy/django-certificatebuilder-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-certificatebuilder-frontend)
+
+## 20. Web Hosting Service
+A simple service to able users to hosting their html, css & js websites
+
+- [More Info](https://www.facebook.com/watch/?v=2460780347452403)
+- [Link Backend](https://github.com/RadwanHegazy/django-webhosting-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-webhosting-frontend)
+
