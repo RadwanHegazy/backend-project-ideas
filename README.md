@@ -231,3 +231,66 @@ A simple service to able users to hosting their html, css & js websites
 - [Link Backend](https://github.com/RadwanHegazy/django-webhosting-backend)
 - [Link Frontend](https://github.com/RadwanHegazy/django-webhosting-frontend)
 
+## 19. Collage Managment Stduent System 
+this project for manage the attance in exams for collage students.
+
+- [More Info](https://www.facebook.com/watch/?v=3716456168629713)
+- [Link Backend](https://github.com/RadwanHegazy/django-collageQueue-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-collageQueue-frontend)
+
+## 18. Medicine Founder
+This project help pharmacies to add thier products on it and able noraml user to search in all theses products.
+
+- [More Info](https://www.facebook.com/watch/?v=465967759661343)
+- [Link Backend](https://github.com/RadwanHegazy/django-medicinefounder-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-medicinefounder-frontend)
+
+## 17. Radwan Rest Framework
+This is a very small project like django rest framework ,That enables developers to build their RESTFull APIs
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid0ij1jFWznw6RWcvu5BA8LgJXfusViSKiEtKSRZe5Gsqb6VwbLmQEG3pdheAyMYMDhl)
+- [Link](https://github.com/RadwanHegazy/Radwan-Rest-Framework)
+
+## 16. Websocket Builder
+Simple project for connect to ws and manage the connections on it,That help frontend devs to build a simple chat system wihout needing on backend
+
+- [More Info](https://www.facebook.com/watch/?v=547217697754535)
+- [Link Backend](https://github.com/RadwanHegazy/django-wstester-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-wstester-frontend)
+
+## 15. Simple NoSQL db
+this is a very simple no-sql db looks like redis
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid0SCuuuWhzM6c8e6TVBUzGFDHZUHhgKnKpviNYxTkL4GkmX59C9Z9mbFf1cSsMS2Ewl)
+- [Link](https://github.com/RadwanHegazy/rdb)
+
+## 14. Django Notificaion Builder
+This is a simple package to use it for add notification feature to your system.
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid02Kncb2AH2GL8wzPZDev7TPh6zDjLCYDW6sCMkxQQKewH4LiHaKKpBsyJgqnRZ2iMZl)
+- [Link](https://github.com/RadwanHegazy/dj_notification)
+
+## 13. Djmongo
+A packge that helps the django devs to connect and use monogdb.
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid0DTznR2XmABSijmBMyR5fSDzBzA24two1w5NAJ62Ztx5HjiaMm319s13F8vTDYH39l)
+- [Link](https://github.com/RadwanHegazy/djmongo)
+
+## 12. Dj Auth Package
+Simple authentication system to add it in your django project.
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid02SzTD4oXr3eAboK1FwgsHr1pA4LeGJ2jX7eW9UBLzvxqNUD2Y1MnBxHqJbN9pZ6UBl)
+- [Link](https://github.com/RadwanHegazy/dj_auth_package)
+
+## 11. E-commerce Builder
+A simple system that enables customers to build their e-commerces and add their products on it.
+
+- [More Info](https://www.facebook.com/watch/?v=529181556309749)
+- [Link Backend](https://github.com/RadwanHegazy/django-ecommercebuilder-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-ecommercebuilder-frontend)
+
+## 10. Radwan-MVT Project
+Simple and small backend framework just looks like django.
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid0wjexRxDTy1GRSYDUnzBpVYvtkidsaaTZfejsWWrryXfycWREEuYnN1EsV59tsoPhl)
+- [Link](https://github.com/RadwanHegazy/RadwanMVT)
