@@ -1,11 +1,9 @@
 # Backend Projects Idea 
 
-The last year which is 2023 I started to challenge my self to make 50th small back-end project with Django on One Year, 
-And I started at 2023/9 and finish the challenge at 2024/11 maybe I late 2 months by the challenge done, 
-And after this I created this repo and submitted all the 50th projects I made with brief details on each project, 
-So that helps you to take the project idea and start to make it bigger and add it on your CV
-
-
+This repo has `50` projects with useful and `creative` ideas.
+But all implementations of these projects were completed on a `small` scale.
+You can take the idea from here and start building it on a `bigger` scale.
+And if you are a `Python` programmer, you can see the implementation and understand the `code`.
 
 ## 50. Chat System
 this is a fullstack chat system I used Django in backend and html , css and js 
@@ -357,3 +355,4 @@ This is a simple interpreted programming language looks like python.
 
 - [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid036wh4smyEGG4BQXZ2pN8Ls68D5r7DfwTuQzQxKrPKsWi4fieR6dQ966itWRaHvZvil)
 - [Link](https://github.com/RadwanHegazy/RadwanLang)
+
