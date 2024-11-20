@@ -294,3 +294,66 @@ Simple and small backend framework just looks like django.
 
 - [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid0wjexRxDTy1GRSYDUnzBpVYvtkidsaaTZfejsWWrryXfycWREEuYnN1EsV59tsoPhl)
 - [Link](https://github.com/RadwanHegazy/RadwanMVT)
+
+
+## 9. Django Hosting Service
+This is a simple services that host a django server for developers
+
+- [More Info](https://www.facebook.com/watch/?v=1577911579514137)
+- [Link Backend](https://github.com/RadwanHegazy/django-deployment-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-deployment-frontend)
+
+## 8. Q&A Games 
+This is a simple game that you can play with friends and ask thier questions and they will answer on quesions. 
+
+- [More Info](https://www.facebook.com/watch/?v=2469021399957366)
+- [Link Backend](https://github.com/RadwanHegazy/django-QandAgame-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-QandAgame-frontend)
+
+
+## 7. Payment API Gateway
+This is a simple and small payment API gateway like stripe
+
+- [More Info](https://www.facebook.com/watch/?v=794946269308702)
+- [Link Backend](https://github.com/RadwanHegazy/django-paymentgateway-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-paymentgateway-frontend)
+
+## 6. RadwanSQL
+This is a simple implementation on binary search tree by creating a simple and very small sql db.
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid0rGjAy3cbgRtmFsabbv3iA8rAsC8HjAQY8X4v1iXM5C82VamRt4bpLsw9Dr9B7Eghl)
+- [Link](https://github.com/RadwanHegazy/RadwanSQL)
+
+## 5. Micorservices
+This is an implementation on microservices but using only python language.
+
+- [More Info](https://www.facebook.com/watch/?v=2311533195869989)
+- [Link](https://github.com/RadwanHegazy/microservices)
+
+
+## 4. Real-Time Audio Stream Project
+This is a simple site that enables users to create their rooms and start talking with visitors.
+
+- [More Info](https://www.facebook.com/watch/?v=857455753189911)
+- [Link Backend](https://github.com/RadwanHegazy/django-audioPodcast-backend)
+- [Link Frontend](https://github.com/RadwanHegazy/django-audioPodcast-frontend)
+
+## 3. Django Social Authentication
+This is a django package that enables django devs to integerate social auth with other platforms such as facebook, gmail and github
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid026bve4KGBf9L9NoByEeHX9Y8sSfBYEKUJoBBZggiEQbRWnvZ1F66yYnpbDsoApgndl)
+- [Link](https://github.com/RadwanHegazy/dj_social_auth)
+
+
+## 2. rAPI
+this is a simple ,small and fast backend framework that enables python developers to build their RESTFull APIs by using it
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid02JaiktvXTnchAvTvYsco1YwqWxcnpLvaCGQoAu465QHwMeqnmn7gC1rJPH6abZjENl)
+- [Link](https://github.com/RadwanHegazy/rAPI)
+
+
+## 1. RadwanLang
+This is a simple interpreted programming language looks like python. 
+
+- [More Info](https://www.facebook.com/radwan.gaber.hijazi/posts/pfbid036wh4smyEGG4BQXZ2pN8Ls68D5r7DfwTuQzQxKrPKsWi4fieR6dQ966itWRaHvZvil)
+- [Link](https://github.com/RadwanHegazy/RadwanLang)
